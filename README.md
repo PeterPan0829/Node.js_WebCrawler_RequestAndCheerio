@@ -108,7 +108,7 @@ setInterval(earthquake, 30 * 60 * 1000); // 每半小時爬一次資料
 ## 參考資料：
 > 要抓取資料的網址：https://www.cwb.gov.tw/V7/modules/MOD_EC_Home.htm　中央氣象局網頁
 
-> JSON.stringify() 的使用這裡僅提供教學說明 http://www.jollen.org/blog/2014/07/nodejs-json-stringify.html
+> JSON.stringify() 的使用：http://www.jollen.org/blog/2014/07/nodejs-json-stringify.html
 
 > JS ! 和 !! 說明(1)：http://hsuehcoding.blogspot.com/2014/03/jsjavascript.html
 
