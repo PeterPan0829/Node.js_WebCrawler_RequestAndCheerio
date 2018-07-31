@@ -1,7 +1,6 @@
 # Use Node.js build Web_Crawler catch up web data.
 
-### Getting Started
-### Clone Project
+### Getting Started & Clone Project
 > you can create a new project based on tutorial by doing the following:
 
 ```bash
