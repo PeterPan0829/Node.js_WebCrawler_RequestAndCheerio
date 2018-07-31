@@ -1,8 +1,8 @@
 # Use Node.js build Web_Crawler catch up web data.
 
-## Getting Started
+### Getting Started
 ### Clone Project
- you can create a new project based on tutorial by doing the following:
+> you can create a new project based on tutorial by doing the following:
 
 ```bash
 $ git clone https://github.com/PeterPanTW/Node.js_WebCrawler_RequestAndCheerio.git
@@ -23,6 +23,10 @@ After completing the [installation](#installation) step, you're ready to start t
 | script | Description           |
 | ------ | --------------------- |
 | start  | running node index.js |
+
+
+### Philosophy (The Rule)：
++ 爬蟲可以應用在很多地方，知道要爬什麼(GOAL)之後，就要寫 NodeJS 並應用 npm install 兩個模組(Modules)，分別是「request」和「cheerio」，request 可以想成用 ajax 作為撈取網頁資料的請求方式可以在後端載入一個網頁並把整個網頁的 HTML 抓取下來，而 cheerio 就是這個網頁裡面的 jQuery 一樣可以做標籤的擷取 ( 用法一樣，因為它的核心就是 jQuery )
 
 
 ## 實作
