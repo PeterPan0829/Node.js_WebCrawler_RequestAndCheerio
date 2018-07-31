@@ -1,12 +1,4 @@
-/*
-   引入 request 與 cheerio 還有 fs，fs 是 NodeJS 的讀檔模組，包含讀取、刪除、寫入等動作。
-
-   要抓取資料的網址：https://www.cwb.gov.tw/V7/modules/MOD_EC_Home.htm　中央氣象局網頁
-
-   JSON.stringify() 的使用這裡僅提供教學說明 http://www.jollen.org/blog/2014/07/nodejs-json-stringify.html
-*/
-
-
+/*引入 request 與 cheerio 還有 fs，fs 是 NodeJS 的讀檔模組，包含讀取、刪除、寫入等動作。*/
 const request = require("request");
 const cheerio = require("cheerio");
 const fs = require("fs");
