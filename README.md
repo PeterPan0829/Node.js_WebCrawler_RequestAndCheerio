@@ -104,3 +104,16 @@ setInterval(earthquake, 30 * 60 * 1000); // 每半小時爬一次資料
 <img src="/img/03_確認可抓取到資料.jpg">
 <img src="/img/04_確認可抓取到資料.jpg">
 <img src="/img/05_確認result＿JSON資料.jpg">
+
+## 參考資料：
+> 要抓取資料的網址：https://www.cwb.gov.tw/V7/modules/MOD_EC_Home.htm　中央氣象局網頁
+
+> JSON.stringify() 的使用這裡僅提供教學說明 http://www.jollen.org/blog/2014/07/nodejs-json-stringify.html
+
+> JS ! 和 !! 說明(1)：http://hsuehcoding.blogspot.com/2014/03/jsjavascript.html
+
+> JS ! 和 !! 說明(2)：https://note.pcwu.net/2017/02/10/js-double-exclamation/
+
+> const變數命名(1)：https://www.youtube.com/watch?v=X7EJBCo8Rik
+
+> const變數命名(2)：https://medium.com/@totoroLiu/javascript-var-let-const-差異-e3d930521230
