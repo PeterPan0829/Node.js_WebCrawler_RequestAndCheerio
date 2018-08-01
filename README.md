@@ -117,3 +117,6 @@ setInterval(earthquake, 30 * 60 * 1000); // 每半小時爬一次資料
 > const變數命名(1)：https://www.youtube.com/watch?v=X7EJBCo8Rik
 
 > const變數命名(2)：https://medium.com/@totoroLiu/javascript-var-let-const-差異-e3d930521230
+
+> 資料爬蟲實戰－使用 node.js：http://blog.infographics.tw/2015/03/crawl-data-with-nodejs/
+
